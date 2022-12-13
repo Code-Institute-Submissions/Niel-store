@@ -1,0 +1,1 @@
+web: gunicorn niel_store1.wsgi
